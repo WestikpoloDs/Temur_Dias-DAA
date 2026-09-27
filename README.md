@@ -300,7 +300,7 @@ Points to address explicitly (the assignment requires this):
 - Note any measurements that *don't* match theory cleanly (e.g. JIT warm-up effects,
   garbage-collection pauses, cache effects at small n where constant factors dominate the
   asymptotic term) — this is expected and the assignment explicitly asks where results
-  diverge from prediction (Section 9, question 3).
+  diverge from prediction 
 
 ## 7. Performance and Design Analysis
 
