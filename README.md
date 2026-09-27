@@ -282,7 +282,7 @@ and `results/plots/workload3_remove_time_vs_n.png`.
 `results/tables/workload4_priority_processing.csv` → embed table + `results/plots/workload4_time_vs_n.png`
 and `results/plots/workload4_comparisons_vs_n.png`.
 
-## 6. Discussion (fill in after running)
+## 6. Discussion 
 
 Compare theoretical vs. measured results here once the tables/plots above are filled in.
 Points to address explicitly (the assignment requires this):
